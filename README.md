@@ -1,6 +1,6 @@
-# coronavirus-tracker-app
+# COVID-19 Tracker
 
-A coronavirus tracker app built using React Hooks, Material UI, and Chart JS.
+A COVID-19 Tracker built using React Hooks, Material UI, and Chart JS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
